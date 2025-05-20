@@ -1,5 +1,4 @@
-# WifiThreatAssessorProject
-Final Year Project _ Wi-Fi Threat &amp; Risk Assessor Application
+# Wi-Fi Threat Assessor
 
 A comprehensive Windows application for scanning, analyzing, and monitoring Wi-Fi networks for security threats.
 

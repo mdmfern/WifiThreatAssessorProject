@@ -1,0 +1,31 @@
+{
+    "auto_refresh": true,
+    "refresh_interval": 30,
+    "scan_depth": "Standard",
+    "background_scanning": true,
+    "theme": "blue",
+    "appearance": "System",
+    "custom_colors": {
+        "primary": "#159fea",
+        "secondary": "#0080ff",
+        "accent": "#2ecc71"
+    },
+    "corner_radius": 8,
+    "animation_enabled": true,
+    "animation_speed": "Medium",
+    "interface_density": "Standard",
+    "font_size": "Medium",
+    "font_family": "Segoe UI",
+    "log_retention": 30,
+    "auto_logging": true,
+    "log_detail_level": "Standard",
+    "enable_system_tray": true,
+    "minimize_to_tray": true,
+    "tray_notifications": true,
+    "startup_scan": true,
+    "save_window_position": true,
+    "window_position": null,
+    "export_format": "PDF",
+    "enable_automated_notifications": true,
+    "notification_interval": 600
+}
